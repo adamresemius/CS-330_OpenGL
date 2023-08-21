@@ -47,6 +47,9 @@ The use of classes not only promoted reusability but also established a clear an
  
 Other Development strategies that were used in the development of this OpenGL project, consist of the use of GLM and CMath to help with iterative and mathematical parts of the development to make the program better overall and easier to read. Mathematical Functions became very useful when using Scaling and transitions for objects that are relative to one another. Though, I wish that I would have used this more in the developmet process.
 
+For more information on the design process of this project, Review the Design Document here: [Open GL Design Decisions](https://github.com/adamresemius/CS-330_OpenGL/blob/main/CS%20330%20Design%20Decisions.pdf)
+
+
 
 ## Computer Science and Future Goals
 
@@ -67,7 +70,7 @@ To explore the project, follow these steps:
 
 ## Acknowledgements
 
-I want to express my gratitude to Victor Gordon's YouTube channel for providing valuable insights into OpenGL techniques, helping me achieve the realistic 3D environment in this project.
+I want to express my gratitude to [Victor Gordon's YouTube channel](https://www.youtube.com/c/VictorGordan) for providing valuable insights into OpenGL techniques, helping me achieve the realistic 3D environment in this project.
 
 
 <img src="https://github.com/adamresemius/CS-330_OpenGL/assets/103894466/0fab18c2-5dae-46fb-8d18-fb94f6a79cce" width="900">
