@@ -68,5 +68,7 @@ To explore the project, follow these steps:
 ## Acknowledgements
 
 I want to express my gratitude to Victor Gordon's YouTube channel for providing valuable insights into OpenGL techniques, helping me achieve the realistic 3D environment in this project.
-![images](https://github.com/adamresemius/CS-330_OpenGL/assets/103894466/0fab18c2-5dae-46fb-8d18-fb94f6a79cce)
+
+
+![Image](https://github.com/adamresemius/CS-330_OpenGL/assets/103894466/0fab18c2-5dae-46fb-8d18-fb94f6a79cce =300x)
 
